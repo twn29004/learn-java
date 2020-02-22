@@ -16,7 +16,7 @@
 ---
 ## 安装IDEA
 IDEA全称IntelliJ IDEA，被称为最好用的java开发环境，这个软件是JetBrains开发的，大家用的Pycharm也是这个公司的产品。当然也可以选择其他的IDE
-首先从[JetBrains官网下载](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC),这里是免费的社区版，另一个[链接](https://mp.weixin.qq.com/s/Gh7oVK2K7X2WY6nKACGXiQ?client=tim&ADUIN=2847218411&ADSESSION=1582334285&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933)是软件安装管家提供的一种破解方法，亲测有效，其中最后一步为实现这个软件的汉化，不喜欢的同学可以跳过，不影响使用。关于上述破解方法每次打开都会有一个弹窗的解决办法，就是找到那个`jetbrains-agent.jar`中找到那个`important.txt`文件，然后放到C盘的根目录下.(如果agent没放在c盘的话，那个`important.txt`文件应和其在一个目录下)
+首先从[JetBrains官网下载](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC),这里是免费的社区版，另一个[链接](https://mp.weixin.qq.com/s/Gh7oVK2K7X2WY6nKACGXiQ?client=tim&ADUIN=2847218411&ADSESSION=1582334285&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933)是软件安装管家提供的一种破解方法，亲测有效，其中最后一步为实现这个软件的汉化，不喜欢的同学可以跳过，不影响使用。关于上述破解方法每次打开都会有一个弹窗的解决办法，就是找到那个`jetbrains-agent.jar`中找到那个`important.txt`文件，然后放到C盘的根目录下.(如果agent没放在c盘的话，那个`important.txt`文件应和其在一个目录下),这个文件的路径为`jetbrains-agent.jar\META-INF\important.txt`
 
 ---
 ## IDEA基本配置
