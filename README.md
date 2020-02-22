@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java学习笔记
 ---
 ## 基本概念
@@ -17,3 +18,7 @@ IDEA全称IntelliJ IDEA，被称为最好用的java开发环境，这个软件�
 首先从[JetBrains官网下载](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC),这里是免费的社区版，另一个[链接](https://mp.weixin.qq.com/s/Gh7oVK2K7X2WY6nKACGXiQ?client=tim&ADUIN=2847218411&ADSESSION=1582334285&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933)是软件安装管家提供的一种破解方法，亲测有效，其中最后一步为
 
 ## IDEA基本配置
+=======
+# learn-java
+关于java学习的历程
+>>>>>>> 214a80759543a78a9311efc48c3799537a5fdd23
