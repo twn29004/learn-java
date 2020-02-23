@@ -17,7 +17,6 @@ public class HelloWorld {
     }
 }
 ```
-
 ---
 ## 运行程序
 菜单栏选择`run`,然后再选择HelloWorld。或者直接再右上角的`Edit Configuration`,下拉菜单选择HelloWorld
